@@ -1,0 +1,7 @@
+{
+  "name": "Login-Screen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
